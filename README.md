@@ -9,6 +9,6 @@
 
 
 
-微博: [@Mc小冰工作室](http://www.weibo.com/mcxiaobing)
+微博: [Mc小冰工作室](http://weibo.com/mcxiaobing)
 
 博客：[Davids 's Blog](http://mcxiaobing.gitee.io/blog)
