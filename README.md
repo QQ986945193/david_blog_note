@@ -1,5 +1,4 @@
-# 个人工作中总结的一些文章，博客地址：http://mcxiaobing.gitee.io/blog
-
+# 个人工作中总结的一些文章。
 
 目录
 
@@ -11,3 +10,5 @@
 
 
 微博: [@Mc小冰工作室](http://www.weibo.com/mcxiaobing)
+
+博客：[Davids 's Blog](http://mcxiaobing.gitee.io/blog)
